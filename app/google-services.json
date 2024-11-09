@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23717690071",
+    "project_id": "kamrul91locationsharingapp",
+    "storage_bucket": "kamrul91locationsharingapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23717690071:android:d800a9615b6a859444ce92",
+        "android_client_info": {
+          "package_name": "com.example.sazzad_91_locationsharingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6-BwKursZ0LoAZ7X3R2CwKlp_q0wtQ8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
